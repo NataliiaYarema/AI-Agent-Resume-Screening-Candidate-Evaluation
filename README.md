@@ -75,7 +75,7 @@ The analysis includes:
 
 ## 🧰 Tools Used  
 
-- **OpenAI GPT** — NLP & resume analysis  
+- **OpenAI API** — NLP & resume analysis  
 - **Make (Integromat)** — workflow automation  
 - **Pinecone** — vector database & semantic search  
 - **Google Drive** — file storage  
