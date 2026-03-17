@@ -35,14 +35,14 @@ The analysis includes:
    - Files (PDF, DOCX, images) are converted into text  
 
 2. **AI Analysis**  
-   - **OpenAI GPT** extracts candidate data  
-   - Identifies skills, experience, and key signals  
+   - **OpenAI API** extracts candidate data  
+   - Identifies skills, experience, and key signals 
 
 3. **Evaluation & Scoring**  
-   - Candidates are compared against job requirements  
+   - Candidates are compared against job requirements from the database (RAG) 
    - Uses structured scoring and semantic matching  
 
-4. **Output Generation**  
+4. **AI Output Generation**  
    - Candidate summary  
    - Fit analysis  
    - Interview questions  
