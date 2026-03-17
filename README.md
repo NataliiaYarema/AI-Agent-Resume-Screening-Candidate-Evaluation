@@ -15,13 +15,15 @@ The analysis includes:
 - Automated **resume parsing and data extraction**  
 - Candidate-to-job **matching and scoring**  
 - Generation of **personalized interview questions**  
-- Storage of structured results for further analysis  
+- Storage of structured results for further analysis
 
 ---  
 
 ## 🖼 Project Preview  
 
-![Telegram Notification](AI_Assist_Telegram_Report.png)  
+![Notification](AI_Assist_Telegram_Report.png)  
+
+---  
 
 ![Google Sheets Database](HR_assistant_Database.png)  
 
