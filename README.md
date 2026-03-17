@@ -23,7 +23,6 @@ The analysis includes:
 
 ![Notification](‎AI_Assist_Telegram_Report.png)  
 
----  
 
 ![Google Sheets Database](HR_assistant_Database.png)  
 
