@@ -22,6 +22,7 @@ The analysis includes:
 ## 🖼 Project Preview  
 
 ![Telegram Notification](AI_Assist_Telegram_Report.png)  
+
 ![Google Sheets Database](HR_assistant_Database.png)  
 
 ---  
