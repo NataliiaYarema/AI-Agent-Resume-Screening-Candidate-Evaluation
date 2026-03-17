@@ -21,7 +21,7 @@ The analysis includes:
 
 ## 🖼 Project Preview  
 
-![Notification](AI_Assist_Telegram_Report.png)  
+![Notification](‎AI_Assist_Telegram_Report.png)  
 
 ---  
 
